@@ -662,7 +662,7 @@ void lua_chat_update (struct tgl_chat *C, unsigned flags) {
 //extern tgl_peer_t *Peers[];
 //extern int peer_num;
 
-#define MAX_LUA_COMMANDS 1000
+#define MAX_LUA_COMMANDS 5000
 
 struct lua_arg {
   int flags;
