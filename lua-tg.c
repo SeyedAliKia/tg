@@ -12,10 +12,9 @@
     along with this telegram-cli.  If not, see <http://www.gnu.org/licenses/>.
     Copyright Vitaly Valtman 2013-2015
     >>[*****]
-    1> HTML support & HTML support in Reply_Msg
+    1> HTML support in Messages
     2> Reply media support (Reply_Photo, Reply_Video, Reply_Audio, Reply_file, Reply_document)
-    3> Lua-tg.c by @Flooding!
-    4> Thanks to @Reload_Life
+    3> Improved Lua-tg.c file
     >>[*****]
 */
 
